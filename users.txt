@@ -1,0 +1,3 @@
+names=['Liam Nesbitt']
+signedIn=[True]
+barcodeID=['abcd1234']
